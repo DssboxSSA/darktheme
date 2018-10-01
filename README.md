@@ -1,4 +1,4 @@
-# club-QuickBox
+# darktheme
 darktheme is a fresh and modernized skin for rTorrent GUI, ruTorrent.
 
 ## Install
